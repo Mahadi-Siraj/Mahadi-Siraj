@@ -23,6 +23,7 @@ A Dynamic Island, Control Centre, launcher and liquid-glass widgets for Windows 
 - **Private by design:** zero telemetry, zero network connections by default, and every optional online request is shown in a ledger.
 - **No hacks:** per-user install, no admin rights, no DLL injection, no system-file patching.
 - **Open source:** GPL-3.0, 91 unit tests, CI on every push and automatic releases through GitHub Actions.
+- **How it's built:** I designed, directed and tested it; the code was written by AI (Claude Code). Verified on my own Windows 11 PC so far — testers on other machines welcome.
 
 **[⬇ Download](https://github.com/Mahadi-Siraj/WinOrbit/releases/latest)** · [User guide](https://github.com/Mahadi-Siraj/WinOrbit/blob/main/docs/USER-GUIDE.md) · [Source](https://github.com/Mahadi-Siraj/WinOrbit)
 
